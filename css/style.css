@@ -2520,3 +2520,8 @@ body.modal {
 .center {
   text-align: center;
 }
+
+.competence {
+  color: #000;
+  font-style: italic;
+}
