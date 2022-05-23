@@ -645,18 +645,18 @@ h6 {
   padding-left: 50px
 }
 
-.tokyo_tm_about .description .right>ul {
+.tokyo_tm_about .description ul {
   margin: 0;
   list-style-type: none
 }
 
-.tokyo_tm_about .description .right>ul>li {
+.tokyo_tm_about .description ul>li {
   margin: 0;
   width: 100%;
   float: left
 }
 
-.tokyo_tm_about .description .right>ul>li span {
+.tokyo_tm_about .description ul>li span {
   min-width: 90px;
   display: inline-block;
   font-weight: 700;
@@ -664,7 +664,7 @@ h6 {
   font-style: italic
 }
 
-.tokyo_tm_about .description .right>ul>li a {
+.tokyo_tm_about .description ul>li a {
   text-decoration: none;
   color: #787878;
   -webkit-transition: all .3s ease;
@@ -674,7 +674,7 @@ h6 {
   transition: all .3s ease
 }
 
-.tokyo_tm_about .description .right>ul>li a:hover {
+.tokyo_tm_about .description ul>li a:hover {
   color: #000;
   letter-spacing: 2px
 }
